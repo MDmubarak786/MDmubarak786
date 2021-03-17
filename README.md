@@ -60,7 +60,7 @@ I'm a self-taught front-end web developer who is passionate about writing code, 
 <a href="https://www.instagram.com/scooby_doo.mk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-scooby_doo.mk-blue?style=flat-square&logo=instagram"></a>
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/profile.php?id=100022367763572)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)](https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+917904100495&text=Hi!)](https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/MMubarakoo7)
 
 </p>

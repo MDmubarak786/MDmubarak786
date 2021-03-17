@@ -1,8 +1,8 @@
 ###
 
-<h2>  Hi there! 👋 I'm Saddam Arbaa.</h2>
+<h2>  Hi there! 👋 I'm Mohammed Mubarak.</h2>
 
-I'm a self-taught front-end web developer who is passionate about writing code, solving problems, building react App.
+I'm a self-taught front-end web developer who is passionate about writing code, solving problems, building react App and Flutter App.
 
 <h3>  💻 &nbsp; More About Me </h3>
 
@@ -55,9 +55,9 @@ I'm a self-taught front-end web developer who is passionate about writing code, 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="mailto:saddamarbaas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saddamarbaas@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/saddamarbaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saddam%20Arbaa%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/saddam_arbaa/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-saddam_arbaa__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:mohammedmubarakmk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohammedmubarakmk@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/mohammed-mubarak-5bbb47169/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammed%20Mubarak%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/scooby_doo.mk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-scooby_doo.mk-blue?style=flat-square&logo=instagram"></a>
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/saddam.arbaa)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)](https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)

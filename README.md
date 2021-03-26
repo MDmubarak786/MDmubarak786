@@ -9,7 +9,7 @@ I'm a self-taught front-end web developer who is passionate about writing code, 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; I’m currently learning React, Javascript, Nodejs and Firebase.
 - 🌱 &nbsp; Always Learning more about React Native,Typescript and Functional Programming.
-- 🎓 &nbsp; Studying Profit with JavaScript Course at https://www.cleverprogrammer.com/.
+- 🎓 &nbsp; JavaScript Course at https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ
 - 🌱 &nbsp; Learning more about Data Structures and Algorithms Offered by Princeton University at https://www.coursera.org/learn/algorithms-part1.
 - 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 - 🎓 &nbsp; 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects

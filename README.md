@@ -35,9 +35,6 @@ I'm a self-taught front-end web developer who is passionate about writing code, 
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
 <br/>
 
 <a href="https://github.com/MDmubarak786">

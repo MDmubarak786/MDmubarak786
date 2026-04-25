@@ -116,22 +116,41 @@ I'm a **Software Development Engineer 2** with **4.8+ years** of experience buil
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Mubarak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-mubarak)
-[![Email](https://img.shields.io/badge/Email-mohammedmubarakmk%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedmubarakmk@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MDmubarak786-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MDmubarak786)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Open+to+exciting+opportunities+%F0%9F%9A%80;Let's+build+something+amazing+together!;Feel+free+to+reach+out+anytime+%F0%9F%91%8B" alt="Connect Typing" />
 
-</div>
+<br/><br/>
 
----
+<a href="https://linkedin.com/in/mohammed-mubarak" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:mohammedmubarakmk@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://github.com/MDmubarak786" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+</a>
 
-<div align="center">
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MDmubarak786&color=00d9ff&style=for-the-badge)
+```
+📍  Bangalore, India
+💼  Open to Full-Time / Freelance / Remote roles
+💬  Ask me about: React, Node.js, AI Automation, AWS
+⏰  Response time: Usually within 24 hours
+```
 
-*"Building the future, one commit at a time."*
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" alt="footer" width="100%" />
 
 </div>

@@ -85,11 +85,22 @@ I'm a **Software Development Engineer 2** with **4.8+ years** of experience buil
 
 <div align="center">
 
-![MDmubarak786's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDmubarak786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MDmubarak786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDmubarak786&layout=donut&theme=tokyonight&hide_border=true&hide=dart&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDmubarak786&layout=compact&theme=tokyonight&hide_border=true&hide=java,html,css)
+<img src="https://streak-stats.demolab.com?user=MDmubarak786&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" width="700" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MDmubarak786&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MDmubarak786&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
 
 </div>
 
